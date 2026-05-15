@@ -1,0 +1,8 @@
+{
+  "name": "disk-check",
+  "description": "Check system disk space usage on Linux, showing partition sizes, used/available space, and visual progress bars for each mount point.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vicleos"
+  }
+}
